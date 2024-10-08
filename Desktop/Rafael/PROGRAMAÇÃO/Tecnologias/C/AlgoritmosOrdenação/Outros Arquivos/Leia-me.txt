@@ -1,0 +1,16 @@
+Agradeço a oportunidade de aprender sobre Ordenação e Analise de algoritmos.
+
+Quando acessar o código, peço que abra em uma IDE pois dentro do código 
+dentro da função principal "main" exitem 3 "for" que são para iniciar a lista 
+na ordem crescente, aletória e decrescente (não necessariamente nessa ordem).
+
+Foi trabalhoso fazer mas estou grato por pode aprofundar meus conhecimentos em 
+linguagem de programação que vem sendo um foco principal mas está ficando ofuscado pelas disciplinas.
+
+Este trabalho está sendo entregue na madrugada do dia 01/06 mas foi concluido no fim do dia 31/05
+Peço desculpa por entregar em cima da hora.
+
+Agradeço a Compreenção e desejo um excelente final de semana prof. Diego. 
+
+ass. Rafael da Costa Ramos   RA:131093512775   Ciência da Computação 4ºS
+analise de complexidade e computabilidade de algoritmos. 

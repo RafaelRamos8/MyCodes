@@ -1,0 +1,40 @@
+Aula de Pilha 19/04
+
+Aula Shaba 
+
+Compiladores e Interpretadores
+Ex de Uso : historico de navegação
+Ex de comando com logica de pilha: CTRL+z 
+Pilha = Stack 
+
+FILO = first in / last out 
+LIFO = last in / first out 
+------
+|7| -> topo
+------
+|6|
+------
+|5|
+------
+|4|
+------
+|3|
+------
+|2|
+------
+|1|
+
+Os dados são inseridos sempre
+no topo um elemento é inserido
+ele ocupa o topo da pilha.
+- Nós só temos acesso aos elementos que esta no topo.
+- O processo é INSERIR um elemento é chamado de PUSH
+- O processo de REMOVER elemento é chamado de POP
+(lembrnado que só removemos do topo).
+
+#define n - serve para delimitar o tamanho. 
+
+pilha vai receber no topo o valor da variavel o valor que usuario digitar 
+quando que ele vai colocar o valor no topo da pilha? quando o valor da pilha for menor que o topo.
+
+
